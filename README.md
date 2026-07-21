@@ -2,10 +2,10 @@
 # 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
-- **Nombre completo:** [Escribe aquí tu nombre]
-- **Sección:** [Escribe aquí tu sección]
-- **Carrera:** Ingeniería en Informática
-- **Sede:** [Escribe aquí tu sede, por ejemplo: Puerto Montt]
+- **Nombre completo:** Francisca Villarroel
+- **Sección:** 004A
+- **Carrera:** Analista Programador Computacional
+- **Sede:** Online
 
 # LlanquihueTourApp
 
